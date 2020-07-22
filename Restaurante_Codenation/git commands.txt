@@ -1,0 +1,6 @@
+git init
+git remote add origin link
+git pull origin branch
+git add .
+git commit -m "comment"
+git push -u origin branch
